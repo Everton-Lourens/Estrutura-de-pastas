@@ -32,7 +32,7 @@ Para mais detalhes sobre boas práticas de organização de projetos Node.js, co
 ## 🚀 Como Usar
 1. Clone este repositório
    ```sh
-   git clone <https://github.com/Everton-Lourens/Estrutura-de-pastas>
+   git clone https://github.com/Everton-Lourens/Estrutura-de-pastas
    ```
 2. Instale as dependências
    ```sh
