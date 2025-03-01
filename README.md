@@ -30,9 +30,13 @@ Para mais detalhes sobre boas práticas de organização de projetos Node.js, co
 ```
 
 ## 🚀 Como Usar
-=> Clone este repositório
+1. Clone este repositório
    ```sh
    git clone https://github.com/Everton-Lourens/Estrutura-de-pastas
+   ```
+2. Altere para o seu repositório
+   ```sh
+   git remote set-url origin https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
    ```
 
 ## 💡 Contribuição
